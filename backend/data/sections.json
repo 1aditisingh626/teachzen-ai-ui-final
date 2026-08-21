@@ -1,0 +1,133 @@
+{
+  "sections": [
+    {
+      "section": {
+        "pageId": "home",
+        "sectionType": "split-hero",
+        "name": "TeachZen — Ai-Assisted Experience",
+        "version": 1,
+        "status": "draft",
+        "variation": "midnight",
+        "variations": [
+          "midnight",
+          "sunrise"
+        ],
+        "layout": {
+          "columns": "1.05fr .95fr",
+          "gap": "clamp(28px,5vw,88px)"
+        },
+        "allSectionsCss": "",
+        "sectionId": "7419283650",
+        "elementIds": [
+          "3817462059",
+          "1946283057",
+          "6283159047",
+          "9051736284",
+          "2759184630",
+          "5162947308"
+        ]
+      },
+      "elements": [
+        {
+          "elementId": "3817462059",
+          "sectionId": "7419283650",
+          "fieldId": "5127309481",
+          "type": "badge",
+          "key": "eyebrow",
+          "label": "Eyebrow",
+          "defaultValue": "AI-ASSISTED EXPERIENCE",
+          "content": "AI-ASSISTED EXPERIENCE",
+          "editable": true,
+          "required": true,
+          "binding": "sections.7419283650.5127309481",
+          "order": 1
+        },
+        {
+          "elementId": "1946283057",
+          "sectionId": "7419283650",
+          "fieldId": "6205174839",
+          "type": "text",
+          "key": "headline",
+          "label": "Headline",
+          "defaultValue": "A sharper interface for Create futuristic space exploration.",
+          "content": "A sharper interface for Create futuristic space exploration.",
+          "editable": true,
+          "required": true,
+          "binding": "sections.7419283650.6205174839",
+          "order": 2
+        },
+        {
+          "elementId": "6283159047",
+          "sectionId": "7419283650",
+          "fieldId": "7381046259",
+          "type": "text",
+          "key": "body",
+          "label": "Body",
+          "defaultValue": "Transform Create futuristic space exploration into a structured, responsive experience with clear hierarchy, useful content and a strong next step.",
+          "content": "Transform Create futuristic space exploration into a structured, responsive experience with clear hierarchy, useful content and a strong next step.",
+          "editable": true,
+          "required": true,
+          "binding": "sections.7419283650.7381046259",
+          "order": 3
+        },
+        {
+          "elementId": "9051736284",
+          "sectionId": "7419283650",
+          "fieldId": "8462051739",
+          "type": "button",
+          "key": "cta",
+          "label": "CTA",
+          "defaultValue": "Explore the experience",
+          "content": "Explore the experience",
+          "editable": true,
+          "required": true,
+          "binding": "sections.7419283650.8462051739",
+          "order": 4
+        },
+        {
+          "elementId": "2759184630",
+          "sectionId": "7419283650",
+          "fieldId": "9347206158",
+          "type": "cards",
+          "key": "stats",
+          "label": "Stats",
+          "defaultValue": "",
+          "content": "",
+          "editable": true,
+          "required": false,
+          "binding": "sections.7419283650.9347206158",
+          "order": 5,
+          "loop": true,
+          "items": [
+            {
+              "value": "01",
+              "label": "clear direction"
+            },
+            {
+              "value": "03",
+              "label": "content layers"
+            },
+            {
+              "value": "100%",
+              "label": "CMS ready"
+            }
+          ]
+        },
+        {
+          "elementId": "5162947308",
+          "sectionId": "7419283650",
+          "fieldId": "1057382649",
+          "type": "image",
+          "key": "visual",
+          "label": "Visual",
+          "defaultValue": "ai-assisted-experience",
+          "content": "ai-assisted-experience",
+          "editable": true,
+          "required": false,
+          "binding": "sections.7419283650.1057382649",
+          "order": 6
+        }
+      ]
+    }
+  ]
+}
