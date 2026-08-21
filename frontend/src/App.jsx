@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 
-const API = import.meta.env.VITE_API_URL || "";
+const API = "https://teachzen-ai-api.onrender.com";
 
 const starter = {
   section: {
